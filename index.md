@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub PPAGES
 
 You can use the [editor on GitHub](https://github.com/cpon00/together/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
