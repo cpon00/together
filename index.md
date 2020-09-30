@@ -1,4 +1,13 @@
-## Welcome to GitHub PPAGES
+## Welcome to Together
+
+## MILESTONE 1 DOCUMENT:
+# https://docs.google.com/document/d/1KiLSXGd7YUNdaZbe5aiHg71qqt0eBnweSaT6mzVlYpU/edit?usp=sharing
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/cpon00/together/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
